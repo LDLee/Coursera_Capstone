@@ -1,2 +1,2 @@
-# datasciencecoursera
-For the Data Scientist's Toolkit Course Project 
+# Coursera_Capstone
+For the IBM DAta Science Capstone Class 
