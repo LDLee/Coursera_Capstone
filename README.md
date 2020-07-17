@@ -1,2 +1,2 @@
 # Coursera_Capstone
-For the IBM DAta Science Capstone Class 
+For the IBM Data Science Capstone Class 
